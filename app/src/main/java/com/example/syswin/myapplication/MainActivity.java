@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
 		//liwenxu
         super.onCreate(savedInstanceState);
+//--000---
         setContentView(R.layout.activity_main);
     }
 }
